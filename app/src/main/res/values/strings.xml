@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalculadoraHistorico</string>
+    <string name="label_title">Calculadora com Histórico</string>
+    <string name="hint_number1">N1</string>
+    <string name="hint_number2">N2</string>
+</resources>
